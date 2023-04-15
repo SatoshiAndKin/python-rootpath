@@ -1,4 +1,4 @@
-setupextras >= 0.1.5
+setupextras @ git+https://github.com/SatoshiAndKin/python-setupextras@master#egg=setupextras
 six >= 1.11.0
 coloredlogs >= 10.0
 termcolor >= 1.1.0
